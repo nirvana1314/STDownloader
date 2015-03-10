@@ -1,2 +1,2 @@
 # STDownloader
-a frame for download file
+a framework for download file
